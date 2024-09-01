@@ -90,7 +90,7 @@ const Home = () => {
 		<>
 			<section className="bg-gradient-to-r from-blue-500 via-blue-400 to-blue-300 h-screen flex justify-center items-center">
           <div className="bg-white p-8 rounded-lg shadow-lg w-1/2 max-w-sm text-center">
-              <h1 className="text-3xl font-extrabold text-gray-800 mb-4">AI Sales Agent</h1>
+              <h1 className="text-3xl font-extrabold text-gray-800 mb-4">Necmi Ugurlu</h1>
               <div className="rounded-full bg-blue-500 text-white p-4 mx-auto mb-6 flex items-center justify-center" style={{ width: '150px', height: '150px' }}>
                   <svg className="h-16 w-16" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 15c2.761 0 5-2.239 5-5V6a5 5 0 10-10 0v4c0 2.761 2.239 5 5 5zm4 0c0 3.313-2.687 6-6 6s-6-2.687-6-6H6c0 3.859 3.141 7 7 7s7-3.141 7-7h-4z" />
